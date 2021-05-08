@@ -1,7 +1,7 @@
 # Credits :
 https://github.com/lzzy12/python-aria-mirror-bot
 
-# What is the key differences?
+# What are the key differences?
 This bot is now can be deployed using a SmartPhone(mainly Termux) & Heroku.
 - Some UI improvement
 - Redefined Progress Bar
