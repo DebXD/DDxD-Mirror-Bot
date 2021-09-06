@@ -30,11 +30,6 @@ Deploying is lengthy process required patience & here goes the steps :
 git clone https://github.com/DebiprasadXD/DDxD-Mirror-Bot 
 cd DDxD-Mirror-Bot
 ```
-- Install dependencies for running setup scripts:
-```shell script
-pip3 install -r requirements.txt
-```
-
 ## Setting up config-sample file
 
 - **BOT_TOKEN** : The telegram bot token that you get from @BotFather
